@@ -103,6 +103,16 @@
                         },
                         {
                             "from": {
+                                "key_code": "keypad_period"
+                            },
+                            "to": [
+                                {
+                                    "key_code": "period"
+                                }
+                            ]
+                        },
+                        {
+                            "from": {
                                 "key_code": "left_command"
                             },
                             "to": [
@@ -153,11 +163,11 @@
                         },
                         {
                             "from": {
-                                "key_code": "keypad_period"
+                                "key_code": "non_us_backslash"
                             },
                             "to": [
                                 {
-                                    "key_code": "period"
+                                    "key_code": "grave_accent_and_tilde"
                                 }
                             ]
                         }
